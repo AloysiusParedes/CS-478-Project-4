@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CS478Proj4</string>
+    <string name="start_stop">Start/Stop</string>
+    <string name="bottom_left">bottom left</string>
+    <string name="bottom_middle">bottom middle</string>
+    <string name="bottom_right">bottom right</string>
+    <string name="middle_left">middle left</string>
+    <string name="middle_middle">middle middle</string>
+    <string name="middle_right">middle right</string>
+    <string name="top_right">top right</string>
+    <string name="top_middle">top middle</string>
+    <string name="top_left">top left</string>
+    <string name="toast">Toast</string>
+</resources>
